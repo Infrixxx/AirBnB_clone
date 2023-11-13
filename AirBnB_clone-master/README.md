@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Adeniyii/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+</p>
 
-<h1 align="center">ALXBnB</h1>
+
+<h1 align="center">HolbertonBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
 
 ## Description :label:
 
-AirBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
+HolbertonBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
 
 This team project is part of the (Alx) Holberton School Software Engineering program. </br>
 It represents the first step towards building a full web application.
@@ -89,5 +93,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-* **Boitumelo Rachoshi** <[Infrixxx](https://github.com/Infrixxx)>
-
+* **Atabong Cecilia** <[cecilia-89](https://github.com/cecilia-89)>
